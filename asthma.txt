@@ -1,0 +1,54 @@
+Pedi Patient RN: 12345678 PCP: Pedi’s PCP
+
+TLC ASTHMA SUMMARY REPORT
+
+Date of Report: 10/16/2002
+Child's Asthma Status: 7/15/2002 through 10/15/2002
+
+CURRENT CONTROLLER REGIMEN
+Medication use in previous week # (%) of expected days
+
+Medication RX 7122102 10/8/02
+Flovent 110meg 2 puffs BID 5 days (70%)
+Flovent 110meg 2 puffs BID 6 days (80%)
+
+CURRENT ANTI-ALLERGEN MEDICATION
+
+Medication RX
+None Ordered
+
+ACUTE SYMPTOMS AND RELIEVER MEDICATION USE
+Patient reported days/week during the previous week
+
+8/5/02 8/19/02 10/8/02 10/15/02
+
+Any Asthma Symptoms Idaylwk = * = Adayiwk *
+Cough * — Odaysiwk — * —Odays/wk
+Wheeze * — Odaysiwk = * IL dayhwk
+Chest Tightness *  Tdayiwk = * —Odays/wk
+Reliever medication use * — Idaylwk = * I dayhwk
+
+SYMPTOMS AND FUNCTION
+Patient reported days/month during the previous month
+
+‘Tn9io2 8/19/02 9/24/02 10/15/02
+
+Nocturnal Awakening * — Odaysimo —* ~—O days/mo
+Sx with daily activities Odaysimo * ~—Odaysimo *
+Sx with exercise Odaysimo —* = Oddaysimo *
+‘School days missed * — Odaysimo —* —Odays/mo
+
+OBJECTIVE ASTHMA ASSESSMENT
+
+7NSI02 8/12/02 9/3/02 10/8/02
+
+Peak Flow (personal best) * 320400) * ~—-320(400)
+Peak Flow Zone * green + green
+NAEPP Severity Category mild pert. * mild perst*
+
+* Indicates that the question was not asked by TLC or not reported by the patient on that date.
++ If you are not the PCP, please email email@address to let us know so we will not send you additional reports on this patient.
+
+‘TLCis a research project supported by a grant from the Agency for Healthcare Research and Quality (AHRQ)
+‘TLC is located at the Kenmore Center: 3 Fenway on the 5th floor in the CAMP office.
+Phone: 617-421-2267 (ext. 82267) Email: email@address
